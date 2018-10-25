@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,7 +37,6 @@ namespace Lab1_Mamontov
                         break;
                 }
             } while (n != 0);
-
                 Console.ReadLine();
         }
 
